@@ -1,4 +1,4 @@
-# Assignment 7 - A (Huffman Coding) Tree Grows in Santa Cruz
+# Huffman Encoding
 
 ## Building
 Run the first command in order to make encode.c and decode.c executable
