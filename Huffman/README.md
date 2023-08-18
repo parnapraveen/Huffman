@@ -69,5 +69,4 @@ You may not modify this file.
 16. huffman.c: This file will contain your implementation of the Huffman coding module interface.
 17. Makefile: This is a file that will allow the grader to type make to compile your program.
 18. README.md: This must describe how to build and run your program.
-19. DESIGN.pdf: describes design of code. 
-20. WRITEUP.pdf: has descriptions on how my code was tested for accuracy
+
